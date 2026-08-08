@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "nome": "iPhone 17",
+        "marca": "Apple",
+        "descricao": "Modelo base da linha iPhone 17 com chip A19, câmeras avançadas e excelente autonomia.",
+        "preco": 7999.90,
+        "imagem": "iphone-17-finish-unselect-gallery-1-202509.avif"
+    },
+    {
+        "id": 2,
+        "nome": "iPhone 17 Air",
+        "marca": "Apple",
+        "descricao": "Versão ultrafina da linha iPhone 17, combinando leveza e alto desempenho.",
+        "preco": 9999.90,
+        "imagem": "iphone-air-finish-unselect-gallery-1-202509.webp"
+    },
+    {
+        "id": 3,
+        "nome": "iPhone 17 Pro",
+        "marca": "Apple",
+        "descricao": "Modelo premium com sistema de câmeras profissionais e chip A19 Pro.",
+        "preco": 10999.90,
+        "imagem": "iphone-17-pro-finish-select-202509-6-3inch_GEO_US.webp"
+    },
+    {
+        "id": 4,
+        "nome": "iPhone 17 Pro Max",
+        "marca": "Apple",
+        "descricao": "Topo de linha com tela ampla, bateria de longa duração e desempenho extremo.",
+        "preco": 11999.90,
+        "imagem": "iphone-17-pro-finish-select-202509-6-9inch_GEO_US.webp"
+    },
+    {
+        "id": 5,
+        "nome": "Nike Dunk Low Panda",
+        "marca": "Nike",
+        "descricao": "Colorway clássica preta e branca, indispensável para qualquer coleção.",
+        "preco": 1299.90,
+        "imagem": "Dunk Low Panda.avif"
+    },
+    {
+        "id": 6,
+        "nome": "Nike Dunk Low Grey Fog",
+        "marca": "Nike",
+        "descricao": "Visual minimalista e extremamente versátil para o dia a dia.",
+        "preco": 1399.90,
+        "imagem": "Dunk Low Grey Frog.avif"
+    },
+    {
+        "id": 7,
+        "nome": "Nike Dunk Low University Blue",
+        "marca": "Nike",
+        "descricao": "Inspirado nas cores universitárias americanas.",
+        "preco": 1699.90,
+        "imagem": "Dunk Low University Blue.avif"
+    },
+    {
+        "id": 8,
+        "nome": "Nike SB Dunk Low Jarritos",
+        "marca": "Nike",
+        "descricao": "Colaboração exclusiva e muito valorizada entre colecionadores.",
+        "preco": 5299.90,
+        "imagem": "SB Dunk Low Jarritos.avif"
+    },
+    {
+        "id": 9,
+        "nome": "Air Jordan 1 High Chicago Lost and Found",
+        "marca": "Jordan",
+        "descricao": "Releitura moderna de uma das colorways mais icônicas da história.",
+        "preco": 3499.90,
+        "imagem": "Air Jordan 1 High Chicago Lost and Found.avif"
+    },
+    {
+        "id": 10,
+        "nome": "Air Jordan 1 Low Travis Scott Reverse Mocha",
+        "marca": "Jordan",
+        "descricao": "Uma das colaborações mais desejadas do mercado sneaker.",
+        "preco": 8499.90,
+        "imagem": "Low Travis Scott Reverse Mocha.avif"
+    },
+    {
+        "id": 11,
+        "nome": "Air Jordan 4 Military Black",
+        "marca": "Jordan",
+        "descricao": "Combinação sofisticada de branco, preto e cinza.",
+        "preco": 2899.90,
+        "imagem": "Air Jordan 4 Military Black.avif"
+    },
+    {
+        "id": 12,
+        "nome": "Air Jordan 4 SB Pine Green",
+        "marca": "Jordan",
+        "descricao": "Mistura perfeita entre performance no skate e lifestyle.",
+        "preco": 4699.90,
+        "imagem": "Air Jordan 4 SB Pine Green.avif"
+    },
+    {
+        "id": 13,
+        "nome": "Air Jordan 3 White Cement Reimagined",
+        "marca": "Jordan",
+        "descricao": "Clássico absoluto com acabamento premium.",
+        "preco": 2499.90,
+        "imagem": "Air Jordan 3 White Cement Reimagined.avif"
+    },
+    {
+        "id": 14,
+        "nome": "Air Jordan 11 Cherry",
+        "marca": "Jordan",
+        "descricao": "Modelo luxuoso com detalhes em verniz brilhante.",
+        "preco": 2999.90,
+        "imagem": "Air Jordan 11 Cherry.avif"
+    },
+    {
+        "id": 15,
+        "nome": "Adidas Yeezy Boost 350 V2 Zebra",
+        "marca": "Adidas",
+        "descricao": "Sneaker icônico conhecido pelo conforto excepcional.",
+        "preco": 2599.90,
+        "imagem": "Yeezy Boost 350 V2 Zebra.avif"
+    },
+    {
+        "id": 16,
+        "nome": "Adidas Yeezy Boost 350 V2 Onyx",
+        "marca": "Adidas",
+        "descricao": "Design monocromático elegante e versátil.",
+        "preco": 2399.90,
+        "imagem": "Yeezy Boost 350 V2 Onyx.avif"
+    },
+    {
+        "id": 17,
+        "nome": "Adidas Yeezy 700 Wave Runner",
+        "marca": "Adidas",
+        "descricao": "Modelo responsável pela popularização dos chunky sneakers.",
+        "preco": 3499.90,
+        "imagem": "Yeezy 700 Wave Runner.avif"
+    },
+    {
+        "id": 18,
+        "nome": "New Balance 550 White Green",
+        "marca": "New Balance",
+        "descricao": "Silhueta retrô inspirada no basquete dos anos 80.",
+        "preco": 1499.90,
+        "imagem": "New Balance 550 White Green.avif"
+    },
+    {
+        "id": 19,
+        "nome": "New Balance 9060 Rain Cloud",
+        "marca": "New Balance",
+        "descricao": "Visual futurista aliado ao máximo conforto.",
+        "preco": 2299.90,
+        "imagem": "New Balance 9060 Rain Cloud.avif"
+    },
+    {
+        "id": 20,
+        "nome": "New Balance 2002R Protection Pack",
+        "marca": "New Balance",
+        "descricao": "Modelo premium com acabamento desconstruído.",
+        "preco": 2499.90,
+        "imagem": "New Balance 2002R Protection Pack.avif"
+    },
+    {
+        "id": 21,
+        "nome": "Nike Air Force 1 White",
+        "marca": "Nike",
+        "descricao": "O tênis branco mais clássico do streetwear.",
+        "preco": 1099.90,
+        "imagem": "Air Force 1 White.avif"
+    },
+    {
+        "id": 22,
+        "nome": "Nike Air Force 1 Tiffany & Co",
+        "marca": "Nike",
+        "descricao": "Colaboração de luxo extremamente rara.",
+        "preco": 12999.90,
+        "imagem": "Air Force 1 Tiffany & Co.avif"
+    },
+    {
+        "id": 23,
+        "nome": "Nike Kobe 6 Protro Reverse Grinch",
+        "marca": "Nike",
+        "descricao": "Homenagem marcante à carreira de Kobe Bryant.",
+        "preco": 3199.90,
+        "imagem": "Kobe 6 Protro Reverse Grinch.avif"
+    },
+    {
+        "id": 24,
+        "nome": "Nike Kobe 8 Protro Venice Beach",
+        "marca": "Nike",
+        "descricao": "Modelo lendário inspirado nas praias de Los Angeles.",
+        "preco": 2799.90,
+        "imagem": "Kobe 8 Protro Venice Beach.avif"
+    },
+    {
+        "id": 25,
+        "nome": "Nike SB Dunk Low April Skateboards",
+        "marca": "Nike",
+        "descricao": "Colaboração exclusiva para os amantes do skate.",
+        "preco": 3899.90,
+        "imagem": "SB Dunk Low April Skateboards.avif"
+    },
+    {
+        "id": 26,
+        "nome": "Air Jordan 1 Retro High Mocha",
+        "marca": "Jordan",
+        "descricao": "Colorway sofisticada inspirada nos tons terrosos.",
+        "preco": 4599.90,
+        "imagem": "Air Jordan 1 Retro High Mocha.avif"
+    },
+    {
+        "id": 27,
+        "nome": "Air Jordan 4 Thunder",
+        "marca": "Jordan",
+        "descricao": "Combinação vibrante de amarelo e preto.",
+        "preco": 2799.90,
+        "imagem": "Air Jordan 4 Thunder.avif"
+    },
+    {
+        "id": 28,
+        "nome": "Air Jordan 4 Bred Reimagined",
+        "marca": "Jordan",
+        "descricao": "Nova interpretação de uma das colorways mais famosas da Jordan.",
+        "preco": 2999.90,
+        "imagem": "Air Jordan 4 Bred Reimagined.avif"
+    },
+    {
+        "id": 29,
+        "nome": "Adidas Campus 00s Grey",
+        "marca": "Adidas",
+        "descricao": "Modelo retrô que voltou ao topo das tendências.",
+        "preco": 1299.90,
+        "imagem": "Adidas Campus 00s Grey.avif"
+    },
+    {
+        "id": 30,
+        "nome": "Adidas Samba OG White Black",
+        "marca": "Adidas",
+        "descricao": "Clássico atemporal presente em diversas gerações.",
+        "preco": 1199.90,
+        "imagem": "Adidas Samba OG White Black.avif"
+    },
+    {
+        "id": 31,
+        "nome": "ASICS Gel-Kayano 14 Cream Black",
+        "marca": "ASICS",
+        "descricao": "Silhueta running retrô com tecnologia moderna.",
+        "preco": 2099.90,
+        "imagem": "ASICS Gel-Kayano 14 Cream Black.avif"
+    },
+    {
+        "id": 32,
+        "nome": "Nike Air Max 95 Neon",
+        "marca": "Nike",
+        "descricao": "Um dos Air Max mais emblemáticos já produzidos.",
+        "preco": 2499.90,
+        "imagem": "Air Max 95 Neon.avif"
+    }
+]
